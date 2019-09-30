@@ -19,5 +19,3 @@ License
         :alt: Creative Commons License
 
 These lecture notes and exercises are licensed under a `Creative Commons Attribution 4.0 International License <https://creativecommons.org/licenses/by/4.0/>`_.
-
-Feel free to use / adapt them, but don't sell them, and share them under the same licence.
